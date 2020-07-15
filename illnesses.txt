@@ -1,0 +1,8 @@
+ague: sweatiness, achy, high fever
+heebie jeebies: nervousness, sweatiness
+cold: runny nose, cough, low fever
+mumps: high fever, rash, swelling
+whooping cough: cough, rash, high fever
+scarlet fever: rash, high fever, coma
+acid reflux: chest pain, burping
+heart attack: chest pain, difficult breathing
